@@ -3,7 +3,7 @@
 
 ## 2025年6月15日
 今天是第一天，我还在和Github搏斗。我感觉它虽然不复杂但是很容易出问题。以下是我这今天做的菜。
-<img src="images/8501.png" width="300">
+<img src="/Jrzorz/Helloworld/tree/main/images/IMG_8501.png" width="300">
 #### 玉米炒培根炒大蒜炒饭，好吃的
 <img src="images/8493.png" width="300">
 #### 山姆的速食咖喱+饭，略咸，不过很方便
