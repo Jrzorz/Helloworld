@@ -1,2 +1,5 @@
-## This is blog title
-This is blog content
+# 个人日志
+这是一个用来记录我大学生活的日志！
+
+## 2025年6月15日
+今天是第一天，我还在和Github搏斗。以下是我这几天做的菜。
